@@ -1,300 +1,350 @@
 [
   {
     "id": "001",
+    "batch": "batch-001",
     "slug": "cloud-wash",
     "complete": true,
     "published_assets": 5
   },
   {
     "id": "002",
+    "batch": "batch-001",
     "slug": "night-drop",
     "complete": true,
     "published_assets": 5
   },
   {
     "id": "003",
+    "batch": "batch-001",
     "slug": "sun-veil",
     "complete": true,
     "published_assets": 5
   },
   {
     "id": "004",
+    "batch": "batch-001",
     "slug": "lip-pebble",
     "complete": true,
     "published_assets": 5
   },
   {
     "id": "005",
+    "batch": "batch-001",
     "slug": "hand-harbor",
     "complete": true,
     "published_assets": 5
   },
   {
     "id": "006",
+    "batch": "batch-001",
     "slug": "clay-reset",
     "complete": true,
     "published_assets": 5
   },
   {
     "id": "007",
+    "batch": "batch-001",
     "slug": "cool-roll",
     "complete": true,
     "published_assets": 5
   },
   {
     "id": "008",
+    "batch": "batch-001",
     "slug": "body-bloom",
     "complete": true,
     "published_assets": 5
   },
   {
     "id": "009",
+    "batch": "batch-001",
     "slug": "trail-one",
     "complete": true,
     "published_assets": 5
   },
   {
     "id": "010",
+    "batch": "batch-001",
     "slug": "city-float",
     "complete": false,
     "published_assets": 3
   },
   {
     "id": "011",
+    "batch": "batch-001",
     "slug": "puddle-boot",
     "complete": true,
     "published_assets": 5
   },
   {
     "id": "012",
+    "batch": "batch-001",
     "slug": "dock-slide",
     "complete": true,
     "published_assets": 5
   },
   {
     "id": "013",
+    "batch": "batch-001",
     "slug": "soft-room",
     "complete": true,
     "published_assets": 5
   },
   {
     "id": "014",
+    "batch": "batch-001",
     "slug": "court-low",
     "complete": true,
     "published_assets": 5
   },
   {
     "id": "015",
+    "batch": "batch-001",
     "slug": "weekender",
     "complete": true,
     "published_assets": 5
   },
   {
     "id": "016",
+    "batch": "batch-001",
     "slug": "everyday-tee",
     "complete": true,
     "published_assets": 5
   },
   {
     "id": "017",
+    "batch": "batch-001",
     "slug": "pocket-overshirt",
     "complete": true,
     "published_assets": 5
   },
   {
     "id": "018",
+    "batch": "batch-001",
     "slug": "sunday-crew",
     "complete": true,
     "published_assets": 5
   },
   {
     "id": "019",
+    "batch": "batch-001",
     "slug": "day-cap",
     "complete": true,
     "published_assets": 5
   },
   {
     "id": "020",
+    "batch": "batch-001",
     "slug": "field-sock",
     "complete": true,
     "published_assets": 5
   },
   {
     "id": "021",
+    "batch": "batch-001",
     "slug": "carry-vest",
     "complete": false,
-    "published_assets": 0
+    "published_assets": 1
   },
   {
     "id": "022",
+    "batch": "batch-001",
     "slug": "base-tank",
     "complete": false,
     "published_assets": 0
   },
   {
     "id": "023",
+    "batch": "batch-001",
     "slug": "turn-driver",
     "complete": true,
     "published_assets": 5
   },
   {
     "id": "024",
+    "batch": "batch-001",
     "slug": "measure-mini",
     "complete": true,
     "published_assets": 5
   },
   {
     "id": "025",
+    "batch": "batch-001",
     "slug": "hook-set",
-    "complete": false,
-    "published_assets": 4
+    "complete": true,
+    "published_assets": 5
   },
   {
     "id": "026",
+    "batch": "batch-001",
     "slug": "hex-fold",
+    "complete": false,
+    "published_assets": 3
+  },
+  {
+    "id": "027",
+    "batch": "batch-001",
+    "slug": "line-level",
     "complete": false,
     "published_assets": 1
   },
   {
-    "id": "027",
-    "slug": "line-level",
-    "complete": false,
-    "published_assets": 0
-  },
-  {
     "id": "028",
+    "batch": "batch-001",
     "slug": "desk-clamp",
     "complete": false,
-    "published_assets": 2
+    "published_assets": 3
   },
   {
     "id": "029",
+    "batch": "batch-001",
     "slug": "cable-tidy",
     "complete": false,
     "published_assets": 1
   },
   {
     "id": "030",
+    "batch": "batch-001",
     "slug": "daily-flask",
     "complete": false,
     "published_assets": 1
   },
   {
     "id": "031",
+    "batch": "batch-001",
     "slug": "morning-mug",
     "complete": true,
     "published_assets": 5
   },
   {
     "id": "032",
+    "batch": "batch-001",
     "slug": "cold-cup",
     "complete": true,
     "published_assets": 5
   },
   {
     "id": "033",
+    "batch": "batch-001",
     "slug": "trail-cup",
     "complete": true,
     "published_assets": 5
   },
   {
     "id": "034",
+    "batch": "batch-001",
     "slug": "carafe-one",
     "complete": false,
-    "published_assets": 0
+    "published_assets": 2
   },
   {
     "id": "035",
+    "batch": "batch-001",
     "slug": "tea-basket",
     "complete": false,
-    "published_assets": 0
+    "published_assets": 1
   },
   {
     "id": "036",
+    "batch": "batch-001",
     "slug": "linen-throw",
     "complete": false,
     "published_assets": 0
   },
   {
     "id": "037",
+    "batch": "batch-001",
     "slug": "table-halo",
     "complete": false,
     "published_assets": 0
   },
   {
     "id": "038",
+    "batch": "batch-001",
     "slug": "catch-tray",
     "complete": false,
     "published_assets": 0
   },
   {
     "id": "039",
+    "batch": "batch-001",
     "slug": "bud-vessel",
     "complete": false,
     "published_assets": 0
   },
   {
     "id": "040",
+    "batch": "batch-001",
     "slug": "counter-brush",
     "complete": false,
     "published_assets": 0
   },
   {
     "id": "041",
+    "batch": "batch-001",
     "slug": "door-stop",
     "complete": false,
     "published_assets": 0
   },
   {
     "id": "042",
+    "batch": "batch-001",
     "slug": "candle-cup",
     "complete": false,
     "published_assets": 0
   },
   {
     "id": "043",
+    "batch": "batch-001",
     "slug": "dish-mat",
     "complete": false,
     "published_assets": 0
   },
   {
     "id": "044",
+    "batch": "batch-001",
     "slug": "walk-loop",
     "complete": true,
     "published_assets": 5
   },
   {
     "id": "045",
+    "batch": "batch-001",
     "slug": "nap-nest",
     "complete": false,
-    "published_assets": 1
+    "published_assets": 3
   },
   {
     "id": "046",
+    "batch": "batch-001",
     "slug": "treat-tin",
     "complete": false,
-    "published_assets": 0
+    "published_assets": 2
   },
   {
     "id": "047",
+    "batch": "batch-001",
     "slug": "bounce-ball",
     "complete": false,
     "published_assets": 0
   },
   {
     "id": "048",
+    "batch": "batch-001",
     "slug": "travel-bowl",
     "complete": false,
     "published_assets": 0
   },
   {
     "id": "049",
+    "batch": "batch-001",
     "slug": "comb-kind",
     "complete": false,
     "published_assets": 0
   },
   {
     "id": "050",
+    "batch": "batch-001",
     "slug": "collar-day",
     "complete": false,
     "published_assets": 0
