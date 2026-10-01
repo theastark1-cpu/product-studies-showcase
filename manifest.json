@@ -104,8 +104,8 @@
   {
     "id": "018",
     "slug": "sunday-crew",
-    "complete": false,
-    "published_assets": 4
+    "complete": true,
+    "published_assets": 5
   },
   {
     "id": "019",
@@ -147,13 +147,13 @@
     "id": "025",
     "slug": "hook-set",
     "complete": false,
-    "published_assets": 3
+    "published_assets": 4
   },
   {
     "id": "026",
     "slug": "hex-fold",
     "complete": false,
-    "published_assets": 0
+    "published_assets": 1
   },
   {
     "id": "027",
@@ -177,7 +177,7 @@
     "id": "030",
     "slug": "daily-flask",
     "complete": false,
-    "published_assets": 0
+    "published_assets": 1
   },
   {
     "id": "031",
@@ -267,7 +267,7 @@
     "id": "045",
     "slug": "nap-nest",
     "complete": false,
-    "published_assets": 0
+    "published_assets": 1
   },
   {
     "id": "046",
