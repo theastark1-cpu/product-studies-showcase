@@ -340,7 +340,7 @@
     "batch": "batch-001",
     "slug": "comb-kind",
     "complete": false,
-    "published_assets": 1
+    "published_assets": 2
   },
   {
     "id": "050",
@@ -348,5 +348,355 @@
     "slug": "collar-day",
     "complete": false,
     "published_assets": 1
+  },
+  {
+    "id": "batch-002:001",
+    "batch": "batch-002",
+    "slug": "cloud-comb",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:002",
+    "batch": "batch-002",
+    "slug": "wash-square",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:003",
+    "batch": "batch-002",
+    "slug": "soap-pebble",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:004",
+    "batch": "batch-002",
+    "slug": "curl-clip",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:005",
+    "batch": "batch-002",
+    "slug": "pocket-mirror",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:006",
+    "batch": "batch-002",
+    "slug": "hand-brush",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:007",
+    "batch": "batch-002",
+    "slug": "garden-clog",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:008",
+    "batch": "batch-002",
+    "slug": "wool-slip",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:009",
+    "batch": "batch-002",
+    "slug": "dry-step",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:010",
+    "batch": "batch-002",
+    "slug": "canvas-lace",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:011",
+    "batch": "batch-002",
+    "slug": "kitchen-apron",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:012",
+    "batch": "batch-002",
+    "slug": "work-glove",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:013",
+    "batch": "batch-002",
+    "slug": "rib-beanie",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:014",
+    "batch": "batch-002",
+    "slug": "soft-scarf",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:015",
+    "batch": "batch-002",
+    "slug": "canvas-short",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:016",
+    "batch": "batch-002",
+    "slug": "loop-belt",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:017",
+    "batch": "batch-002",
+    "slug": "bit-vault",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:018",
+    "batch": "batch-002",
+    "slug": "sand-block",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:019",
+    "batch": "batch-002",
+    "slug": "quiet-hinge",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:020",
+    "batch": "batch-002",
+    "slug": "fold-rule",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:021",
+    "batch": "batch-002",
+    "slug": "parts-bowl",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:022",
+    "batch": "batch-002",
+    "slug": "snap-link",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:023",
+    "batch": "batch-002",
+    "slug": "window-scraper",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:024",
+    "batch": "batch-002",
+    "slug": "espresso-stack",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:025",
+    "batch": "batch-002",
+    "slug": "double-glass",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:026",
+    "batch": "batch-002",
+    "slug": "camp-stein",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:027",
+    "batch": "batch-002",
+    "slug": "ice-grid",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:028",
+    "batch": "batch-002",
+    "slug": "cork-round",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:029",
+    "batch": "batch-002",
+    "slug": "sip-lid",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:030",
+    "batch": "batch-002",
+    "slug": "tray-board",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:031",
+    "batch": "batch-002",
+    "slug": "drawer-grid",
+    "complete": true,
+    "published_assets": 5
+  },
+  {
+    "id": "batch-002:032",
+    "batch": "batch-002",
+    "slug": "curtain-loop",
+    "complete": false,
+    "published_assets": 3
+  },
+  {
+    "id": "batch-002:033",
+    "batch": "batch-002",
+    "slug": "book-cradle",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:034",
+    "batch": "batch-002",
+    "slug": "night-pebble",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:035",
+    "batch": "batch-002",
+    "slug": "sweep-pan",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:036",
+    "batch": "batch-002",
+    "slug": "door-wedge",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:037",
+    "batch": "batch-002",
+    "slug": "laundry-peg",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:038",
+    "batch": "batch-002",
+    "slug": "plant-saucer",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:039",
+    "batch": "batch-002",
+    "slug": "pan-handle",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:040",
+    "batch": "batch-002",
+    "slug": "rest-spoon",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:041",
+    "batch": "batch-002",
+    "slug": "rope-ring",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:042",
+    "batch": "batch-002",
+    "slug": "sniff-roll",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:043",
+    "batch": "batch-002",
+    "slug": "soft-disc",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:044",
+    "batch": "batch-002",
+    "slug": "brush-mitt",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:045",
+    "batch": "batch-002",
+    "slug": "tag-loop",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:046",
+    "batch": "batch-002",
+    "slug": "paw-towel",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:047",
+    "batch": "batch-002",
+    "slug": "meal-mat",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:048",
+    "batch": "batch-002",
+    "slug": "crate-pad",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:049",
+    "batch": "batch-002",
+    "slug": "treat-pouch",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "batch-002:050",
+    "batch": "batch-002",
+    "slug": "travel-scoop",
+    "complete": false,
+    "published_assets": 0
   }
 ]
