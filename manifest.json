@@ -263,7 +263,7 @@
     "batch": "batch-001",
     "slug": "catch-tray",
     "complete": false,
-    "published_assets": 3
+    "published_assets": 4
   },
   {
     "id": "039",
@@ -277,7 +277,7 @@
     "batch": "batch-001",
     "slug": "counter-brush",
     "complete": false,
-    "published_assets": 1
+    "published_assets": 2
   },
   {
     "id": "041",
@@ -298,7 +298,7 @@
     "batch": "batch-001",
     "slug": "dish-mat",
     "complete": false,
-    "published_assets": 3
+    "published_assets": 4
   },
   {
     "id": "044",
