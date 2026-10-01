@@ -151,7 +151,7 @@
     "batch": "batch-001",
     "slug": "base-tank",
     "complete": false,
-    "published_assets": 1
+    "published_assets": 3
   },
   {
     "id": "023",
@@ -185,8 +185,8 @@
     "id": "027",
     "batch": "batch-001",
     "slug": "line-level",
-    "complete": false,
-    "published_assets": 4
+    "complete": true,
+    "published_assets": 5
   },
   {
     "id": "028",
@@ -249,21 +249,21 @@
     "batch": "batch-001",
     "slug": "linen-throw",
     "complete": false,
-    "published_assets": 0
+    "published_assets": 1
   },
   {
     "id": "037",
     "batch": "batch-001",
     "slug": "table-halo",
     "complete": false,
-    "published_assets": 0
+    "published_assets": 1
   },
   {
     "id": "038",
     "batch": "batch-001",
     "slug": "catch-tray",
     "complete": false,
-    "published_assets": 0
+    "published_assets": 1
   },
   {
     "id": "039",
@@ -347,6 +347,6 @@
     "batch": "batch-001",
     "slug": "collar-day",
     "complete": false,
-    "published_assets": 0
+    "published_assets": 1
   }
 ]
