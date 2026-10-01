@@ -1,0 +1,302 @@
+[
+  {
+    "id": "001",
+    "slug": "cloud-wash",
+    "complete": true,
+    "published_assets": 5
+  },
+  {
+    "id": "002",
+    "slug": "night-drop",
+    "complete": false,
+    "published_assets": 3
+  },
+  {
+    "id": "003",
+    "slug": "sun-veil",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "004",
+    "slug": "lip-pebble",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "005",
+    "slug": "hand-harbor",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "006",
+    "slug": "clay-reset",
+    "complete": false,
+    "published_assets": 1
+  },
+  {
+    "id": "007",
+    "slug": "cool-roll",
+    "complete": false,
+    "published_assets": 1
+  },
+  {
+    "id": "008",
+    "slug": "body-bloom",
+    "complete": false,
+    "published_assets": 1
+  },
+  {
+    "id": "009",
+    "slug": "trail-one",
+    "complete": false,
+    "published_assets": 1
+  },
+  {
+    "id": "010",
+    "slug": "city-float",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "011",
+    "slug": "puddle-boot",
+    "complete": true,
+    "published_assets": 5
+  },
+  {
+    "id": "012",
+    "slug": "dock-slide",
+    "complete": false,
+    "published_assets": 3
+  },
+  {
+    "id": "013",
+    "slug": "soft-room",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "014",
+    "slug": "court-low",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "015",
+    "slug": "weekender",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "016",
+    "slug": "everyday-tee",
+    "complete": false,
+    "published_assets": 3
+  },
+  {
+    "id": "017",
+    "slug": "pocket-overshirt",
+    "complete": false,
+    "published_assets": 1
+  },
+  {
+    "id": "018",
+    "slug": "sunday-crew",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "019",
+    "slug": "day-cap",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "020",
+    "slug": "field-sock",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "021",
+    "slug": "carry-vest",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "022",
+    "slug": "base-tank",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "023",
+    "slug": "turn-driver",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "024",
+    "slug": "measure-mini",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "025",
+    "slug": "hook-set",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "026",
+    "slug": "hex-fold",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "027",
+    "slug": "line-level",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "028",
+    "slug": "desk-clamp",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "029",
+    "slug": "cable-tidy",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "030",
+    "slug": "daily-flask",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "031",
+    "slug": "morning-mug",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "032",
+    "slug": "cold-cup",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "033",
+    "slug": "trail-cup",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "034",
+    "slug": "carafe-one",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "035",
+    "slug": "tea-basket",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "036",
+    "slug": "linen-throw",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "037",
+    "slug": "table-halo",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "038",
+    "slug": "catch-tray",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "039",
+    "slug": "bud-vessel",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "040",
+    "slug": "counter-brush",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "041",
+    "slug": "door-stop",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "042",
+    "slug": "candle-cup",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "043",
+    "slug": "dish-mat",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "044",
+    "slug": "walk-loop",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "045",
+    "slug": "nap-nest",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "046",
+    "slug": "treat-tin",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "047",
+    "slug": "bounce-ball",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "048",
+    "slug": "travel-bowl",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "049",
+    "slug": "comb-kind",
+    "complete": false,
+    "published_assets": 0
+  },
+  {
+    "id": "050",
+    "slug": "collar-day",
+    "complete": false,
+    "published_assets": 0
+  }
+]
