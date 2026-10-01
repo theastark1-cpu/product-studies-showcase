@@ -150,8 +150,8 @@
     "id": "022",
     "batch": "batch-001",
     "slug": "base-tank",
-    "complete": false,
-    "published_assets": 4
+    "complete": true,
+    "published_assets": 5
   },
   {
     "id": "023",
@@ -200,7 +200,7 @@
     "batch": "batch-001",
     "slug": "cable-tidy",
     "complete": false,
-    "published_assets": 2
+    "published_assets": 3
   },
   {
     "id": "030",
