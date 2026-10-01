@@ -241,8 +241,8 @@
     "id": "035",
     "batch": "batch-001",
     "slug": "tea-basket",
-    "complete": false,
-    "published_assets": 2
+    "complete": true,
+    "published_assets": 5
   },
   {
     "id": "036",
@@ -312,7 +312,7 @@
     "batch": "batch-001",
     "slug": "nap-nest",
     "complete": false,
-    "published_assets": 3
+    "published_assets": 4
   },
   {
     "id": "046",
@@ -326,7 +326,7 @@
     "batch": "batch-001",
     "slug": "bounce-ball",
     "complete": false,
-    "published_assets": 0
+    "published_assets": 1
   },
   {
     "id": "048",
