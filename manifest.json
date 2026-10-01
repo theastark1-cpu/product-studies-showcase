@@ -26,8 +26,8 @@
   {
     "id": "005",
     "slug": "hand-harbor",
-    "complete": false,
-    "published_assets": 3
+    "complete": true,
+    "published_assets": 5
   },
   {
     "id": "006",
@@ -44,8 +44,8 @@
   {
     "id": "008",
     "slug": "body-bloom",
-    "complete": false,
-    "published_assets": 4
+    "complete": true,
+    "published_assets": 5
   },
   {
     "id": "009",
@@ -110,14 +110,14 @@
   {
     "id": "019",
     "slug": "day-cap",
-    "complete": false,
-    "published_assets": 3
+    "complete": true,
+    "published_assets": 5
   },
   {
     "id": "020",
     "slug": "field-sock",
     "complete": false,
-    "published_assets": 0
+    "published_assets": 1
   },
   {
     "id": "021",
@@ -135,7 +135,7 @@
     "id": "023",
     "slug": "turn-driver",
     "complete": false,
-    "published_assets": 0
+    "published_assets": 2
   },
   {
     "id": "024",
@@ -183,13 +183,13 @@
     "id": "031",
     "slug": "morning-mug",
     "complete": false,
-    "published_assets": 0
+    "published_assets": 1
   },
   {
     "id": "032",
     "slug": "cold-cup",
     "complete": false,
-    "published_assets": 0
+    "published_assets": 1
   },
   {
     "id": "033",
