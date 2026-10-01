@@ -15,7 +15,7 @@
     "id": "003",
     "slug": "sun-veil",
     "complete": false,
-    "published_assets": 2
+    "published_assets": 4
   },
   {
     "id": "004",
@@ -32,14 +32,14 @@
   {
     "id": "006",
     "slug": "clay-reset",
-    "complete": false,
-    "published_assets": 3
+    "complete": true,
+    "published_assets": 5
   },
   {
     "id": "007",
     "slug": "cool-roll",
     "complete": false,
-    "published_assets": 2
+    "published_assets": 3
   },
   {
     "id": "008",
@@ -74,14 +74,14 @@
   {
     "id": "013",
     "slug": "soft-room",
-    "complete": false,
-    "published_assets": 0
+    "complete": true,
+    "published_assets": 5
   },
   {
     "id": "014",
     "slug": "court-low",
     "complete": false,
-    "published_assets": 0
+    "published_assets": 1
   },
   {
     "id": "015",
@@ -98,14 +98,14 @@
   {
     "id": "017",
     "slug": "pocket-overshirt",
-    "complete": false,
-    "published_assets": 3
+    "complete": true,
+    "published_assets": 5
   },
   {
     "id": "018",
     "slug": "sunday-crew",
     "complete": false,
-    "published_assets": 0
+    "published_assets": 2
   },
   {
     "id": "019",
