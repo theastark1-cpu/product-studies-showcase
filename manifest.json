@@ -33,13 +33,13 @@
     "id": "006",
     "slug": "clay-reset",
     "complete": false,
-    "published_assets": 1
+    "published_assets": 2
   },
   {
     "id": "007",
     "slug": "cool-roll",
     "complete": false,
-    "published_assets": 1
+    "published_assets": 2
   },
   {
     "id": "008",
@@ -92,8 +92,8 @@
   {
     "id": "016",
     "slug": "everyday-tee",
-    "complete": false,
-    "published_assets": 3
+    "complete": true,
+    "published_assets": 5
   },
   {
     "id": "017",
