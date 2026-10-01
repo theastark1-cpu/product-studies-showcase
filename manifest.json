@@ -8,14 +8,14 @@
   {
     "id": "002",
     "slug": "night-drop",
-    "complete": false,
-    "published_assets": 3
+    "complete": true,
+    "published_assets": 5
   },
   {
     "id": "003",
     "slug": "sun-veil",
     "complete": false,
-    "published_assets": 0
+    "published_assets": 2
   },
   {
     "id": "004",
@@ -33,7 +33,7 @@
     "id": "006",
     "slug": "clay-reset",
     "complete": false,
-    "published_assets": 2
+    "published_assets": 3
   },
   {
     "id": "007",
@@ -68,8 +68,8 @@
   {
     "id": "012",
     "slug": "dock-slide",
-    "complete": false,
-    "published_assets": 3
+    "complete": true,
+    "published_assets": 5
   },
   {
     "id": "013",
@@ -99,7 +99,7 @@
     "id": "017",
     "slug": "pocket-overshirt",
     "complete": false,
-    "published_assets": 1
+    "published_assets": 3
   },
   {
     "id": "018",
