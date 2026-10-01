@@ -193,7 +193,7 @@
     "batch": "batch-001",
     "slug": "desk-clamp",
     "complete": false,
-    "published_assets": 3
+    "published_assets": 4
   },
   {
     "id": "029",
@@ -207,7 +207,7 @@
     "batch": "batch-001",
     "slug": "daily-flask",
     "complete": false,
-    "published_assets": 3
+    "published_assets": 4
   },
   {
     "id": "031",
@@ -262,22 +262,22 @@
     "id": "038",
     "batch": "batch-001",
     "slug": "catch-tray",
-    "complete": false,
-    "published_assets": 4
+    "complete": true,
+    "published_assets": 5
   },
   {
     "id": "039",
     "batch": "batch-001",
     "slug": "bud-vessel",
     "complete": false,
-    "published_assets": 3
+    "published_assets": 4
   },
   {
     "id": "040",
     "batch": "batch-001",
     "slug": "counter-brush",
     "complete": false,
-    "published_assets": 2
+    "published_assets": 3
   },
   {
     "id": "041",
@@ -340,7 +340,7 @@
     "batch": "batch-001",
     "slug": "comb-kind",
     "complete": false,
-    "published_assets": 2
+    "published_assets": 3
   },
   {
     "id": "050",
@@ -571,14 +571,14 @@
     "batch": "batch-002",
     "slug": "curtain-loop",
     "complete": false,
-    "published_assets": 3
+    "published_assets": 4
   },
   {
     "id": "batch-002:033",
     "batch": "batch-002",
     "slug": "book-cradle",
     "complete": false,
-    "published_assets": 0
+    "published_assets": 1
   },
   {
     "id": "batch-002:034",
