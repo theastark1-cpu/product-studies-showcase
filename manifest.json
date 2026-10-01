@@ -270,21 +270,21 @@
     "batch": "batch-001",
     "slug": "bud-vessel",
     "complete": false,
-    "published_assets": 0
+    "published_assets": 1
   },
   {
     "id": "040",
     "batch": "batch-001",
     "slug": "counter-brush",
     "complete": false,
-    "published_assets": 0
+    "published_assets": 1
   },
   {
     "id": "041",
     "batch": "batch-001",
     "slug": "door-stop",
     "complete": false,
-    "published_assets": 1
+    "published_assets": 2
   },
   {
     "id": "042",
@@ -311,8 +311,8 @@
     "id": "045",
     "batch": "batch-001",
     "slug": "nap-nest",
-    "complete": false,
-    "published_assets": 4
+    "complete": true,
+    "published_assets": 5
   },
   {
     "id": "046",
@@ -333,7 +333,7 @@
     "batch": "batch-001",
     "slug": "travel-bowl",
     "complete": false,
-    "published_assets": 0
+    "published_assets": 1
   },
   {
     "id": "049",
