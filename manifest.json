@@ -200,14 +200,14 @@
     "batch": "batch-001",
     "slug": "cable-tidy",
     "complete": false,
-    "published_assets": 1
+    "published_assets": 2
   },
   {
     "id": "030",
     "batch": "batch-001",
     "slug": "daily-flask",
     "complete": false,
-    "published_assets": 1
+    "published_assets": 3
   },
   {
     "id": "031",
@@ -256,14 +256,14 @@
     "batch": "batch-001",
     "slug": "table-halo",
     "complete": false,
-    "published_assets": 3
+    "published_assets": 4
   },
   {
     "id": "038",
     "batch": "batch-001",
     "slug": "catch-tray",
     "complete": false,
-    "published_assets": 1
+    "published_assets": 3
   },
   {
     "id": "039",
@@ -325,15 +325,15 @@
     "id": "047",
     "batch": "batch-001",
     "slug": "bounce-ball",
-    "complete": false,
-    "published_assets": 4
+    "complete": true,
+    "published_assets": 5
   },
   {
     "id": "048",
     "batch": "batch-001",
     "slug": "travel-bowl",
     "complete": false,
-    "published_assets": 3
+    "published_assets": 4
   },
   {
     "id": "049",
