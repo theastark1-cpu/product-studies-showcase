@@ -194,8 +194,8 @@
   {
     "id": "033",
     "slug": "trail-cup",
-    "complete": false,
-    "published_assets": 3
+    "complete": true,
+    "published_assets": 5
   },
   {
     "id": "034",
