@@ -20,14 +20,14 @@
   {
     "id": "004",
     "slug": "lip-pebble",
-    "complete": false,
-    "published_assets": 4
+    "complete": true,
+    "published_assets": 5
   },
   {
     "id": "005",
     "slug": "hand-harbor",
     "complete": false,
-    "published_assets": 0
+    "published_assets": 1
   },
   {
     "id": "006",
@@ -38,14 +38,14 @@
   {
     "id": "007",
     "slug": "cool-roll",
-    "complete": false,
-    "published_assets": 4
+    "complete": true,
+    "published_assets": 5
   },
   {
     "id": "008",
     "slug": "body-bloom",
     "complete": false,
-    "published_assets": 2
+    "published_assets": 3
   },
   {
     "id": "009",
@@ -111,7 +111,7 @@
     "id": "019",
     "slug": "day-cap",
     "complete": false,
-    "published_assets": 0
+    "published_assets": 1
   },
   {
     "id": "020",
