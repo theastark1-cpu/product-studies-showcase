@@ -140,14 +140,14 @@
   {
     "id": "024",
     "slug": "measure-mini",
-    "complete": false,
-    "published_assets": 3
+    "complete": true,
+    "published_assets": 5
   },
   {
     "id": "025",
     "slug": "hook-set",
     "complete": false,
-    "published_assets": 0
+    "published_assets": 1
   },
   {
     "id": "026",
@@ -165,7 +165,7 @@
     "id": "028",
     "slug": "desk-clamp",
     "complete": false,
-    "published_assets": 0
+    "published_assets": 1
   },
   {
     "id": "029",
@@ -188,14 +188,14 @@
   {
     "id": "032",
     "slug": "cold-cup",
-    "complete": false,
-    "published_assets": 2
+    "complete": true,
+    "published_assets": 5
   },
   {
     "id": "033",
     "slug": "trail-cup",
     "complete": false,
-    "published_assets": 0
+    "published_assets": 1
   },
   {
     "id": "034",
@@ -261,7 +261,7 @@
     "id": "044",
     "slug": "walk-loop",
     "complete": false,
-    "published_assets": 3
+    "published_assets": 4
   },
   {
     "id": "045",
