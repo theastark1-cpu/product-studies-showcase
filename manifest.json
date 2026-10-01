@@ -67,7 +67,7 @@
     "batch": "batch-001",
     "slug": "city-float",
     "complete": false,
-    "published_assets": 3
+    "published_assets": 4
   },
   {
     "id": "011",
@@ -151,7 +151,7 @@
     "batch": "batch-001",
     "slug": "base-tank",
     "complete": false,
-    "published_assets": 0
+    "published_assets": 1
   },
   {
     "id": "023",
@@ -186,7 +186,7 @@
     "batch": "batch-001",
     "slug": "line-level",
     "complete": false,
-    "published_assets": 1
+    "published_assets": 3
   },
   {
     "id": "028",
@@ -234,15 +234,15 @@
     "id": "034",
     "batch": "batch-001",
     "slug": "carafe-one",
-    "complete": false,
-    "published_assets": 2
+    "complete": true,
+    "published_assets": 5
   },
   {
     "id": "035",
     "batch": "batch-001",
     "slug": "tea-basket",
     "complete": false,
-    "published_assets": 1
+    "published_assets": 2
   },
   {
     "id": "036",
@@ -319,7 +319,7 @@
     "batch": "batch-001",
     "slug": "treat-tin",
     "complete": false,
-    "published_assets": 2
+    "published_assets": 3
   },
   {
     "id": "047",
