@@ -298,7 +298,7 @@
     "batch": "batch-001",
     "slug": "dish-mat",
     "complete": false,
-    "published_assets": 0
+    "published_assets": 1
   },
   {
     "id": "044",
@@ -318,15 +318,15 @@
     "id": "046",
     "batch": "batch-001",
     "slug": "treat-tin",
-    "complete": false,
-    "published_assets": 4
+    "complete": true,
+    "published_assets": 5
   },
   {
     "id": "047",
     "batch": "batch-001",
     "slug": "bounce-ball",
     "complete": false,
-    "published_assets": 1
+    "published_assets": 2
   },
   {
     "id": "048",
@@ -340,7 +340,7 @@
     "batch": "batch-001",
     "slug": "comb-kind",
     "complete": false,
-    "published_assets": 0
+    "published_assets": 1
   },
   {
     "id": "050",
