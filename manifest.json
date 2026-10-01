@@ -14,14 +14,14 @@
   {
     "id": "003",
     "slug": "sun-veil",
-    "complete": false,
-    "published_assets": 4
+    "complete": true,
+    "published_assets": 5
   },
   {
     "id": "004",
     "slug": "lip-pebble",
     "complete": false,
-    "published_assets": 3
+    "published_assets": 4
   },
   {
     "id": "005",
@@ -87,7 +87,7 @@
     "id": "015",
     "slug": "weekender",
     "complete": false,
-    "published_assets": 0
+    "published_assets": 1
   },
   {
     "id": "016",
@@ -105,7 +105,7 @@
     "id": "018",
     "slug": "sunday-crew",
     "complete": false,
-    "published_assets": 3
+    "published_assets": 4
   },
   {
     "id": "019",
