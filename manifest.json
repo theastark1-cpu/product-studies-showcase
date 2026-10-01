@@ -27,7 +27,7 @@
     "id": "005",
     "slug": "hand-harbor",
     "complete": false,
-    "published_assets": 1
+    "published_assets": 3
   },
   {
     "id": "006",
@@ -45,7 +45,7 @@
     "id": "008",
     "slug": "body-bloom",
     "complete": false,
-    "published_assets": 3
+    "published_assets": 4
   },
   {
     "id": "009",
@@ -86,8 +86,8 @@
   {
     "id": "015",
     "slug": "weekender",
-    "complete": false,
-    "published_assets": 1
+    "complete": true,
+    "published_assets": 5
   },
   {
     "id": "016",
@@ -111,7 +111,7 @@
     "id": "019",
     "slug": "day-cap",
     "complete": false,
-    "published_assets": 1
+    "published_assets": 3
   },
   {
     "id": "020",
