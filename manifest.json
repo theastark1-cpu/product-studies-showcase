@@ -143,15 +143,15 @@
     "id": "021",
     "batch": "batch-001",
     "slug": "carry-vest",
-    "complete": false,
-    "published_assets": 3
+    "complete": true,
+    "published_assets": 5
   },
   {
     "id": "022",
     "batch": "batch-001",
     "slug": "base-tank",
     "complete": false,
-    "published_assets": 3
+    "published_assets": 4
   },
   {
     "id": "023",
@@ -249,7 +249,7 @@
     "batch": "batch-001",
     "slug": "linen-throw",
     "complete": false,
-    "published_assets": 1
+    "published_assets": 3
   },
   {
     "id": "037",
@@ -283,8 +283,8 @@
     "id": "041",
     "batch": "batch-001",
     "slug": "door-stop",
-    "complete": false,
-    "published_assets": 2
+    "complete": true,
+    "published_assets": 5
   },
   {
     "id": "042",
@@ -326,14 +326,14 @@
     "batch": "batch-001",
     "slug": "bounce-ball",
     "complete": false,
-    "published_assets": 2
+    "published_assets": 3
   },
   {
     "id": "048",
     "batch": "batch-001",
     "slug": "travel-bowl",
     "complete": false,
-    "published_assets": 1
+    "published_assets": 2
   },
   {
     "id": "049",
