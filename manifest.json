@@ -298,7 +298,7 @@
     "batch": "batch-001",
     "slug": "dish-mat",
     "complete": false,
-    "published_assets": 1
+    "published_assets": 2
   },
   {
     "id": "044",
@@ -332,8 +332,8 @@
     "id": "048",
     "batch": "batch-001",
     "slug": "travel-bowl",
-    "complete": false,
-    "published_assets": 4
+    "complete": true,
+    "published_assets": 5
   },
   {
     "id": "049",
