@@ -192,8 +192,8 @@
     "id": "028",
     "batch": "batch-001",
     "slug": "desk-clamp",
-    "complete": false,
-    "published_assets": 4
+    "complete": true,
+    "published_assets": 5
   },
   {
     "id": "029",
@@ -255,8 +255,8 @@
     "id": "037",
     "batch": "batch-001",
     "slug": "table-halo",
-    "complete": false,
-    "published_assets": 4
+    "complete": true,
+    "published_assets": 5
   },
   {
     "id": "038",
@@ -277,7 +277,7 @@
     "batch": "batch-001",
     "slug": "counter-brush",
     "complete": false,
-    "published_assets": 3
+    "published_assets": 4
   },
   {
     "id": "041",
@@ -340,14 +340,14 @@
     "batch": "batch-001",
     "slug": "comb-kind",
     "complete": false,
-    "published_assets": 3
+    "published_assets": 4
   },
   {
     "id": "050",
     "batch": "batch-001",
     "slug": "collar-day",
     "complete": false,
-    "published_assets": 1
+    "published_assets": 2
   },
   {
     "id": "batch-002:001",
@@ -578,7 +578,7 @@
     "batch": "batch-002",
     "slug": "book-cradle",
     "complete": false,
-    "published_assets": 1
+    "published_assets": 2
   },
   {
     "id": "batch-002:034",
