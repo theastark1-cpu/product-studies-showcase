@@ -248,8 +248,8 @@
     "id": "036",
     "batch": "batch-001",
     "slug": "linen-throw",
-    "complete": false,
-    "published_assets": 4
+    "complete": true,
+    "published_assets": 5
   },
   {
     "id": "037",
@@ -270,7 +270,7 @@
     "batch": "batch-001",
     "slug": "bud-vessel",
     "complete": false,
-    "published_assets": 1
+    "published_assets": 3
   },
   {
     "id": "040",
@@ -298,7 +298,7 @@
     "batch": "batch-001",
     "slug": "dish-mat",
     "complete": false,
-    "published_assets": 2
+    "published_assets": 3
   },
   {
     "id": "044",
