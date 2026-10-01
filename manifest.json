@@ -116,8 +116,8 @@
   {
     "id": "020",
     "slug": "field-sock",
-    "complete": false,
-    "published_assets": 4
+    "complete": true,
+    "published_assets": 5
   },
   {
     "id": "021",
@@ -147,7 +147,7 @@
     "id": "025",
     "slug": "hook-set",
     "complete": false,
-    "published_assets": 1
+    "published_assets": 3
   },
   {
     "id": "026",
@@ -165,13 +165,13 @@
     "id": "028",
     "slug": "desk-clamp",
     "complete": false,
-    "published_assets": 1
+    "published_assets": 2
   },
   {
     "id": "029",
     "slug": "cable-tidy",
     "complete": false,
-    "published_assets": 0
+    "published_assets": 1
   },
   {
     "id": "030",
@@ -195,7 +195,7 @@
     "id": "033",
     "slug": "trail-cup",
     "complete": false,
-    "published_assets": 1
+    "published_assets": 3
   },
   {
     "id": "034",
@@ -260,8 +260,8 @@
   {
     "id": "044",
     "slug": "walk-loop",
-    "complete": false,
-    "published_assets": 4
+    "complete": true,
+    "published_assets": 5
   },
   {
     "id": "045",
