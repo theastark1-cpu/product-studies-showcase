@@ -144,7 +144,7 @@
     "batch": "batch-001",
     "slug": "carry-vest",
     "complete": false,
-    "published_assets": 1
+    "published_assets": 3
   },
   {
     "id": "022",
@@ -178,15 +178,15 @@
     "id": "026",
     "batch": "batch-001",
     "slug": "hex-fold",
-    "complete": false,
-    "published_assets": 3
+    "complete": true,
+    "published_assets": 5
   },
   {
     "id": "027",
     "batch": "batch-001",
     "slug": "line-level",
     "complete": false,
-    "published_assets": 3
+    "published_assets": 4
   },
   {
     "id": "028",
@@ -284,14 +284,14 @@
     "batch": "batch-001",
     "slug": "door-stop",
     "complete": false,
-    "published_assets": 0
+    "published_assets": 1
   },
   {
     "id": "042",
     "batch": "batch-001",
     "slug": "candle-cup",
     "complete": false,
-    "published_assets": 0
+    "published_assets": 1
   },
   {
     "id": "043",
@@ -319,7 +319,7 @@
     "batch": "batch-001",
     "slug": "treat-tin",
     "complete": false,
-    "published_assets": 3
+    "published_assets": 4
   },
   {
     "id": "047",
